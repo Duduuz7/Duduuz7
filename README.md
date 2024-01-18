@@ -29,7 +29,9 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   
-<br />
+<br/>
+<br/>
+
 
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
   <img align="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
@@ -38,11 +40,18 @@
 </div>
 
 <div style="display: inline_block">
+  <h2> Ferramentas ⚙️</h2>
+    <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Visual-Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+
+<div style="display: inline_block">
  <h2> Formação Acadêmica 🎓 </h2>
  📌 Cursando Técnico em Desenvolvimento de Sistemas - SENAI de Informática "Paulo Antonio Skaf" (conclusão em dez/2024)
 </div>
   
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-felipe-575753276/) 
-<br />
-📫 edufeli2005@gmail.com
+<br/>
+📫 - edufeli2005@gmail.com
