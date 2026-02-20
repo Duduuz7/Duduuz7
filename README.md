@@ -48,7 +48,8 @@
 
 <div style="display: inline_block">
  <h2> Formação Acadêmica 🎓 </h2>
- 📌 Técnico em Desenvolvimento de Sistemas - SENAI de Informática "Paulo Antonio Skaf" (concluído em dez/2024)
+ 📌 Técnico em Desenvolvimento de Sistemas - SENAI de Informática "Paulo Antonio Skaf" (concluído em dez/2024) 
+ <br/>
  📌 Cursando Análise e Desenvolvimento de Sistemas - SENAI de Informática "Paulo Antonio Skaf" (conclusão em dez/2027)
 </div>
   
@@ -56,4 +57,5 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-felipe-575753276/) 
 <br/>
 📫 - edufeli2005@gmail.com
+<br/>
 📫 - edufel2005@outlook.com
