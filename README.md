@@ -50,7 +50,9 @@
  <h2> Formação Acadêmica 🎓 </h2>
  📌 Técnico em Desenvolvimento de Sistemas - SENAI de Informática "Paulo Antonio Skaf" (concluído em dez/2024) 
  <br/>
- 📌 Cursando Análise e Desenvolvimento de Sistemas - SENAI de Informática "Paulo Antonio Skaf" (conclusão em dez/2027)
+ 📌 Cursando Análise e Desenvolvimento de Sistemas - FAM (conclusão em dez/2027)
+  <br/>
+ 📌 Conhecimento Inglês: B2, Upper Intermediate | Intermediário Superior - Wizard (Início em 2019, concluído em 2025)
 </div>
   
 ## Contatos ✉️
@@ -59,3 +61,5 @@
 📫 - edufeli2005@gmail.com
 <br/>
 📫 - edufel2005@outlook.com
+<br/> 
+Portfólio: https://eduardofelipe.vercel.app/
