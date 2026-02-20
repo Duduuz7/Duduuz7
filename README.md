@@ -58,8 +58,10 @@
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-felipe-575753276/) 
 <br/>
+<br/>
 📫 - edufeli2005@gmail.com
 <br/>
 📫 - edufel2005@outlook.com
 <br/> 
+<br/>
 Portfólio: https://eduardofelipe.vercel.app/
