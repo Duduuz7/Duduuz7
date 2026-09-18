@@ -13,10 +13,10 @@
 </div>
 
 ##
-  <div align="center">
+<div align="center">
   <a href="https://github.com/Duduuz7">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Duduuz7&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduuz7&layout=compact&langs_count=16&theme=transparent" alt="Linguagens mais usadas" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Duduuz7&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Duduuz7&layout=compact&langs_count=16&theme=transparent" alt="Linguagens" />
   </a>
 </div>
   
