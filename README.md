@@ -15,9 +15,10 @@
 ##
   <div align="center">
   <a href="https://github.com/Duduuz7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duduuz7&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduuz7&layout=compact&langs_count=16&theme=transparent"/>
-  </div>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Duduuz7&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduuz7&layout=compact&langs_count=16&theme=transparent" alt="Linguagens mais usadas" />
+  </a>
+</div>
   
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
@@ -52,14 +53,12 @@
  <br/>
  📌 Cursando Análise e Desenvolvimento de Sistemas - FAM (conclusão em dez/2027)
   <br/>
- 📌 Conhecimento Inglês: B2, Upper Intermediate | Intermediário Superior - Wizard (Início em 2019, concluído em 2025)
+ 📌 Conhecimento Inglês: C1 - Wizard (Início em 2019, concluído em 2025)
 </div>
   
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-felipe-575753276/) 
 <br/>
-<br/>
-📫 - edufeli2005@gmail.com
 <br/>
 📫 - edufel2005@outlook.com
 <br/> 
