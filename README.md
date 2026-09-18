@@ -59,9 +59,6 @@
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-felipe-575753276/) 
   
-<br/>
-<br/>
-
 <a href="https://outlook.live.com/mail/0/deeplink/compose?to=edufel2005@outlook.com">
     <img height="40" alt="Outlook" src="https://github.com/user-attachments/assets/9833d9cf-7d5a-47aa-a0cc-6117843c9146" />
 </a>
